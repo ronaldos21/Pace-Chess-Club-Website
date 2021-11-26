@@ -1,2 +1,2 @@
 # Pace-Chess-Club-Website
-Website for Chess Club
+Website for chess club
