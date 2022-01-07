@@ -5,6 +5,7 @@ height: 100%;
 width: 100%;
 font-family: 'Poppins', sans-serif;
 color: #222;
+background-color: rgb(225, 223, 223);
 }
 .navbar {
 padding: .8rem;
@@ -35,18 +36,19 @@ padding-right: 20px;
   text-shadow: 1px 1px 10px #000;
   padding-bottom: 1rem;
 }
-btn-primary{
-  background-color: #6648b1;
-  background-color: #6648b1;
+.btn-primary{
+  background-color: #151716;
+  background-color: #151716;
   border: 1px solid;
 }
 .btn-primary:hover {
-  background-color: #563d7c;
-  border: 1px solid #563d7c;
+  background-color: #1e292e;
+  border: 1px solid #b4b4b4;
 }
 .jumbotron {
   padding: 1rem;
   border-radius: 0;
+  background-color: rgb(193, 191, 191);
 }
 .padding {
   padding-bottom: 2rem;  
@@ -67,7 +69,7 @@ btn-primary{
   color: #197b21;
 }
 .fa-chess {
-  color: #b3bbb4;
+  color: #468f4f;
 }
 .fa-chess-knight {
   color: #151716;
@@ -107,12 +109,13 @@ btn-primary{
 .fa-google:hover,
 .fa-instagram:hover,
 .fa-youtube:hover  {
-  color: #d5d5d5;
+  color: #608b98;
 }
 footer {
-background-color: #3f3f3f;
+background-color: #354b50;
 color: #d5d5d5;
 padding: 2rem;
+font-weight: default;
 }
 hr.light{
 border-top: 1px solid #d5d5d5;
@@ -121,7 +124,7 @@ margin-top: .8rem;
 margin-bottom: 1rem;
 }
 footer a {
-  color: #d5d5d5;
+  color: #354b50;
 }
 hr.light-100 {
 border-top: 1px solid #d5d5d5;
@@ -154,7 +157,7 @@ margin-bottom: 1rem;
   padding: 8px 14px;
 }
 .display-4 {
-font-size: 200%;
+font-size: 100%;
 }
 .social a {
   font-size: 2.5em;
@@ -191,9 +194,9 @@ font-size: 200%;
 
 /*---Firefox Bug Fix --*/
 .carousel-item {
-  transition: -webkit-transform 0.5s ease;
-  transition: transform 0.5s ease;
-  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  transition: -webkit-transform 0.6s ease;
+  transition: transform 0.6s ease;
+  transition: transform 0.6s ease, -webkit-transform 0.6s ease;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
