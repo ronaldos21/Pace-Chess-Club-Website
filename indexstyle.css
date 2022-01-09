@@ -104,13 +104,19 @@ padding-right: 20px;
 .fa-youtube {
   color:#bb0000;
 }
+.fa-university {
+  color: rgb(3, 90, 145);
+}
+
 .fa-facebook:hover, 
 .fa-twitter:hover, 
 .fa-google:hover,
 .fa-instagram:hover,
-.fa-youtube:hover  {
+.fa-youtube:hover,  
+.fa-university {
   color: #608b98;
 }
+
 footer {
 background-color: #354b50;
 color: #d5d5d5;
