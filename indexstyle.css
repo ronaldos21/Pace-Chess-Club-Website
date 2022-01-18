@@ -9,6 +9,7 @@ background-color: rgb(225, 223, 223);
 }
 .navbar {
 padding: .8rem;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar-nav li {
 padding-right: 20px;
