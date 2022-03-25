@@ -1,2 +1,2 @@
 # Pace-Chess-Club-Website
-Website for chess club
+Website for the chess club at NYC campus
