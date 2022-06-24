@@ -6,6 +6,16 @@ width: 100%;
 font-family: 'Poppins', sans-serif;
 color: #222;
 background-color: rgb(225, 223, 223); 
+text-align: left;
+}
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+p,input,textarea,label{
+  font-family: 'Poppins', sans-serif;
 }
 .navbar {
 padding: .8rem;
