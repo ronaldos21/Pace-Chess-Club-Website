@@ -66,6 +66,11 @@ input:focus,
 textarea:focus  {
   outline: 1px solid #354b50;
 }
+a{
+  color:rgb(225, 223, 223);
+  font-style: normal;
+
+}
 .navbar {
 padding: .8rem;
 }
